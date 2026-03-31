@@ -6,13 +6,13 @@
 
   "baseline_faces_folder": "C:\\BehaveGuard\\known_faces",
 
-  "email": "jeyadharshni75@gmail.com",
-  "email_password": "mrtt ddfb yeyz abnx",
+  "email": "xxx@gmail.com",
+  "email_password": "xxxx",
 
-  "telegram_bot_token": "8728361711:AAHhjOtDv_bddqQ4UNYP6sGAVzE6wju7nws",
-  "telegram_chat_id":  "6130035571",
-  "duo_ikey": "DI46D69YYQI5OD5ENUUG",
-  "duo_skey": "1pIhkXDJg62JChoWSvSRE5eMKa2tFVidB4yQyLrG",
-  "duo_host": "api-856d0634.duosecurity.com",
-  "duo_user": "jeyadharshni"
+  "telegram_bot_token": "Your_token",
+  "telegram_chat_id":  "Your_id",
+  "duo_ikey": "your_ikey",
+  "duo_skey": "your_skey",
+  "duo_host": "API_host",
+  "duo_user": "User_Name"
 }
