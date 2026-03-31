@@ -17,7 +17,9 @@ BehaveGuard is a lightweight security system that detects unauthorized access us
 - Telegram Bot API
 
 ## 📸 Output Screenshots
-(Add your screenshots here)
+![Telegram](telegram.jpg)
+![Lock Screen](lock.jpg)
+![Output](output.jpg)
 
 ## ▶️ How to Run
 ```bash
